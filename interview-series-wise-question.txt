@@ -770,4 +770,4 @@ should come to the right side? can you write the syntax
 13) Write the python program to fetch the largest number from the list?
 14) Have you written any automation using shell script?
 15) In the shell script I want to run background?
-16)How do you read command line arguments in Shell scripting
+16)How do you read command line arguments in Shell scripting.
